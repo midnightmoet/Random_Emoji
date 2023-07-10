@@ -6,3 +6,4 @@ This is a simple script that generates a random emoji from a list of emojis.
 - HTML5
 - CSS3
 - JavaScript
+-[Open Emoji API](https://emoji-api.com/)
